@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Huy</h1>
 <h3 align="center">I aspire to work in the Frontend or Backend development field.</h3>
 
-![Ready for work](https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI%2FML+Learner;Game+Developer&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  
+![Ready To Work](https://img.shields.io/badge/Ready_To_Work-YES-success?style=for-the-badge)
+
+</p>
 ---
 
 ## 🚀 About Me

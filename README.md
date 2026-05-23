@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Huy</h1>
-<h3 align="center">Frontend • Backend • AI/ML • Game Dev</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI%2FML+Learner;Game+Developer;Always+learning+new+things&center=true&width=500&height=45">
-</p>
 
 ---
 
